@@ -1,6 +1,7 @@
 Projeto de Cor Dinâmica Unity3D e Servidor Web
 
 1. Descrição
+
     Este projeto consiste em duas partes principais: um servidor web e um projeto Unity3D. O servidor web gera uma cor aleatória em formato hexadecimal, que é enviada para o projeto Unity. O projeto Unity, por sua vez, acessa o servidor a cada segundo para obter uma nova cor e aplica esta cor a um objeto (cubo) na cena.
 
 
